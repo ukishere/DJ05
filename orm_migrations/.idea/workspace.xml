@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d9dd531-e7f7-43b2-a70e-e4154fb7197a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templatetags/app_filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/phones/management/commands/import_phones.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/phones/management/commands/import_phones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/phones/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/phones/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/phones/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/phones/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/templates/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/templates/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/templates/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/templates/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/articles/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/articles/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/articles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/articles/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/articles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/articles/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/templates/articles/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/templates/articles/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/school/students_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/school/students_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templates/inflation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templates/inflation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/static/ii.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/static/imac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/static/mac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/static/steve.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/templates/app/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/templates/app/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/templates/app/examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/templates/app/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/templatetags/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templatetags/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/templatetags/app_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/app/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task2/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/templates/top_reddit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/templatetags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/templatetags/news_filters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/app/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task3/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../first-project/first_project/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../first-project/first_project/first_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../request-handling/file_server/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../request-handling/file_server/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../request-handling/landing/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../request-handling/landing/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../request-handling/pagination/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../request-handling/pagination/app/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gE4X336wQ0PnLnQ0YRSCOKlTSq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d9dd531-e7f7-43b2-a70e-e4154fb7197a" name="Default Changelist" comment="" />
+      <created>1597666453232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597666453232</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="88" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597667955040">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="436" y="88" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1597667955040" />
+  </component>
+</project>
