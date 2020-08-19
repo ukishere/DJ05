@@ -21,15 +21,7 @@ class Article(models.Model):
         return self.title
 
 class Tags(models.Model):
-    TAGS_CHOICES = [
-        ('Здоровье', 'Здоровье'),
-        ('Наука', 'Наука'),
-        ('Город', 'Город')
-    ]
-
-    tag = models.TextField(
-        choices = TAGS_CHOICES
-    )
+    tag = models.TextField()
 
     class Meta:
         db_table = 'tags'

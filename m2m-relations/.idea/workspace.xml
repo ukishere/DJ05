@@ -8,10 +8,36 @@
       <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/phones/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/phones/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/templates/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/templates/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../databases/work_with_database/templates/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../databases/work_with_database/templates/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/articles/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/articles/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/articles/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/articles/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_migrations/school/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../orm_migrations/school/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_migrations/templates/school/students_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../orm_migrations/templates/school/students_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/articles/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/static/css/3-col-portfolio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/static/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/templates/articles/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/templates/articles/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/website/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/website/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/website/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orm_query/website/wsgi.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templates/inflation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templates/inflation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dynamic-templates/task1/app/views.py" afterDir="false" />
@@ -63,7 +89,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1gArt7Ds7zLEKXZVqzUbIRHglCX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,7 +100,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/articles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
